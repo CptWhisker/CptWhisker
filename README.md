@@ -1,9 +1,9 @@
 <h1 align="center">Hello there. It's-a me, Aleksandr Moskovtsev!</h1>
 <h3 align="center">Ex marine geophysicist moving into iOS development</h3>
 
-- 🔭 I’m currently working on a study project for Yandex Practicum called [Tracker](https://github.com/CptWhisker/Tracker)
+- 🔭 I’m currently working on a study project called [GoRoute](https://github.com/CptWhisker/RideBuddy)
 
-- 🌱 Currently learning **SwiftUI, Combine and Realm**
+- 🌱 Currently learning **The COmposable Architecture (TCA)**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/CptWhisker?tab=repositories)
 
