@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a study project called [GoRoute](https://github.com/CptWhisker/RideBuddy)
 
-- 🌱 Currently learning **The COmposable Architecture (TCA)**
+- 🌱 Currently learning **The Composable Architecture (TCA)**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/CptWhisker?tab=repositories)
 
